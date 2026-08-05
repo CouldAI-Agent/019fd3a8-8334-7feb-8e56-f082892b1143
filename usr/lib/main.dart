@@ -11,7 +11,7 @@ class MuseumApp extends StatelessWidget {
   @override
   Widget build(BuildContext context) {
     return MaterialApp(
-      title: 'Museum Clock Scene',
+      title: 'Escena de Museo con Reloj',
       debugShowCheckedModeBanner: false,
       initialRoute: '/',
       routes: {
